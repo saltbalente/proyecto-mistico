@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Brujo Jacob - Maestro en Artes Místicas",
+  "short_name": "Brujo Jacob",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffd700",
+  "description": "Especialista en amarres de amor, limpias espirituales, rituales de prosperidad y consultas de tarot. Consultas disponibles 24/7.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
